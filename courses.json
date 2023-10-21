@@ -543,6 +543,26 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
-    }
-  ]
+    },
+    {
+    "id" :  55,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IMD: Cybersecurity Risk and Strategy"
+      "link" : "https://www.edx.org/executive-education/institute-for-management-development-imd-cybersecurity-risk-and-strategy?parent_component=new-on-edx&webview=false&campaign=Cybersecurity+Risk+and+Strategy&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+    "id" :  56,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Introduction to ChatGPT"
+      "link" : "https://www.edx.org/learn/artificial-intelligence/edx-introduction-to-chatgpt?webview=false&campaign=Introduction+to+ChatGPT&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
+      "difficulty" : "beginner",
+      "module_number" : 3,
+      "certification" : "Paid"  
+    },
+]
 
